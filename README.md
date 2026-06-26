@@ -3,9 +3,13 @@
   
   <br>
 
-  <a href="https://github.com/venuri-p">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=🎓+IT+Undergraduate;💻+Aspiring+Software+Engineer" alt="Typing SVG" />
-  </a>
+  <h3>
+    🎓
+    <a href="https://github.com/venuri-p">
+      <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&pause=1000&color=70A5FD&center=true&vCenter=true&width=450&lines=IT+Undergraduate;Aspiring+Software+Engineer" alt="Typing SVG" style="vertical-align: middle;" />
+    </a>
+    💻
+  </h3>
 
   <br><br>
 
