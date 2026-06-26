@@ -65,3 +65,12 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=venuri-p&theme=tokyonight" width="100%" />
 </div>
+
+<br>
+
+<h3 align="center">🐍 My Contributions</h3>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/venuri-p/venuri-p/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=5a2a82&height=150&section=footer" width="100%" />
