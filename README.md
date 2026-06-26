@@ -54,7 +54,7 @@
 
 <br>
 
-<h3 align="center">📊 GitHub Analytics</h3>
+<h2 align="center">📊 GitHub Analytics</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=venuri-p&custom_title=Venuri%20Perera's%20GitHub%20Stats&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venuri-p&custom_title=Most%20Used%20Languages&layout=compact&hide_border=true&bg_color=00000000&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9" width="48%" />
