@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Venuri%20Perera&fontSize=70&fontAlignY=40" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=5a2a82&height=200&section=header&text=Venuri%20Perera&fontSize=70&fontAlignY=40" alt="Banner" />
   
   <br>
 
   <a href="https://github.com/venuri-p">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=IT+Undergraduate;Aspiring+Software+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=🎓+IT+Undergraduate;💻+Aspiring+Software+Engineer" alt="Typing SVG" />
   </a>
 
   <br><br>
@@ -20,8 +20,8 @@
 
 <br>
 
-### 💻 Programming Languages
-<p align="left">
+<h3 align="center">💻 Programming Languages</h3>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,py,js" />
   </a>
@@ -29,22 +29,22 @@
   <img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=database&logoColor=white" alt="SQL" />
 </p>
 
-### 🚀 Frameworks
-<p align="left">
+<h3 align="center">🚀 Frameworks</h3>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,spring" />
   </a>
 </p>
 
-### 🗄️ Databases
-<p align="left">
+<h3 align="center">🗄️ Databases</h3>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,postgres" />
   </a>
 </p>
 
-### 🛠 Tools
-<p align="left">
+<h3 align="center">🛠 Tools</h3>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,postman,idea,vscode,figma" />
   </a>
@@ -59,7 +59,7 @@
 
 <br>
 
-### 📈 Contribution Graph
+<h3 align="center">📈 Contribution Graph</h3>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=venuri-p&theme=tokyonight" width="100%" />
 </div>
