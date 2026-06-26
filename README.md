@@ -11,10 +11,10 @@
 
   <img src="https://komarev.com/ghpvc/?username=venuri-p&label=PROFILE%20VIEWS&color=5a2a82&style=for-the-badge" alt="venuri-p" />
   <a href="https://www.linkedin.com/in/venuri-perera" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-5a2a82?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:venuriperera1@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-5a2a82?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
 
@@ -26,7 +26,7 @@
     <img src="https://skillicons.dev/icons?i=java,py,js" />
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/SQL-5a2a82?style=for-the-badge&logo=database&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=database&logoColor=white" alt="SQL" />
 </p>
 
 <h3 align="center">🚀 Frameworks</h3>
@@ -42,7 +42,7 @@
     <img src="https://skillicons.dev/icons?i=mysql,postgres" />
   </a>
   <br><br>
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-5a2a82?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MSSQL" />
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MSSQL" />
 </p>
 
 <h3 align="center">🛠 Tools</h3>
