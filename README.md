@@ -66,7 +66,7 @@
 
 <h3 align="center">📈 Contribution Graph</h3>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=venuri-p&theme=tokyonight" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=venuri-p&bg_color=transparent&color=6366f1&line=6366f1&point=ffffff&hide_border=true" width="100%" />
 </div>
 
 <br>
