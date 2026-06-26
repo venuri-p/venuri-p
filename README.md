@@ -4,7 +4,7 @@
   <br>
 
   <a href="https://github.com/venuri-p">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=🎓+IT+Undergraduate;💻+Aspiring+Software+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=%F0%9F%8E%93+IT+Undergraduate;%F0%9F%92%BB+Aspiring+Software+Engineer" alt="Typing SVG" />
   </a>
 
   <br><br>
