@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=5a2a82&height=200&section=header&text=Venuri%20Perera&fontSize=70&fontAlignY=40" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=5a2a82&height=200&section=header&text=Venuri%20Perera&fontSize=70&fontAlignY=40&fontColor=c9d1d9" alt="Banner" />
   
   <br>
 
