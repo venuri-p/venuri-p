@@ -3,13 +3,9 @@
   
   <br>
 
-  <h3>
-    🎓
-    <a href="https://github.com/venuri-p">
-      <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&pause=1000&color=70A5FD&center=true&vCenter=true&width=450&lines=IT+Undergraduate;Aspiring+Software+Engineer" alt="Typing SVG" style="vertical-align: middle;" />
-    </a>
-    💻
-  </h3>
+  <a href="https://github.com/venuri-p">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=🎓+IT+Undergraduate;💻+Aspiring+Software+Engineer" alt="Typing SVG" />
+  </a>
 
   <br><br>
 
@@ -45,6 +41,8 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,postgres" />
   </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MSSQL" />
 </p>
 
 <h3 align="center">🛠 Tools</h3>
