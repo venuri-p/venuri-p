@@ -41,7 +41,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,postgres" />
   </a>
-  &nbsp;
+  <br><br>
   <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MSSQL" />
 </p>
 
@@ -54,9 +54,10 @@
 
 <br>
 
+<h3 align="center">📊 GitHub Analytics</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=venuri-p&theme=tokyonight&show_icons=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venuri-p&theme=tokyonight&layout=compact" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=venuri-p&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venuri-p&layout=compact&hide_border=true&bg_color=00000000&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9" width="48%" />
 </div>
 
 <br>
