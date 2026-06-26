@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Venuri%20Perera&fontSize=70&fontAlignY=35&desc=IT%20Undergraduate%20%7C%20Aspiring%20Software%20Engineer&descAlignY=62&descSize=22" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Venuri%20Perera&fontSize=70&fontAlignY=40" alt="Banner" />
   
   <br>
 
   <a href="https://github.com/venuri-p">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=🎓+IT+Undergraduate;💻+Aspiring+Software+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=IT+Undergraduate;Aspiring+Software+Engineer" alt="Typing SVG" />
   </a>
 
   <br><br>
