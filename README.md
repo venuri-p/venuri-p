@@ -59,7 +59,7 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=venuri-p&custom_title=Venuri%20Perera's%20GitHub%20Stats&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=8b5cf6&icon_color=8b5cf6&text_color=c9d1d9" width="48%" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=venuri-p&custom_title=Most%20Used%20Languages&layout=compact&hide_border=true&bg_color=00000000&title_color=8b5cf6&icon_color=8b5cf6&text_color=c9d1d9" width="48%" />
   <br><br>
-  <img src="https://streak-stats.demolab.com/?user=venuri-p&theme=transparent&hide_border=true&ring=8b5cf6&fire=8b5cf6&currStreakLabel=8b5cf6" />
+  <img src="https://streak-stats.demolab.com/?user=venuri-p&theme=transparent&hide_border=true&ring=8b5cf6&fire=8b5cf6&currStreakLabel=8b5cf6&v=1" />
 </div>
 
 <br>
