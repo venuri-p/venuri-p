@@ -26,6 +26,12 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             
+      - name: Generate github-readme-streak-stats.svg
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: user=${{ github.repository_owner }}&theme=transparent&hide_border=true&ring=8b5cf6&fire=8b5cf6&currStreakLabel=8b5cf6
+          path: dist/streak-stats.svg
+            
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
