@@ -56,8 +56,8 @@
 
 <h2 align="center">📊 GitHub Analytics</h2>
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=venuri-p&custom_title=Venuri%20Perera's%20GitHub%20Stats&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=8b5cf6&icon_color=8b5cf6&text_color=c9d1d9" width="48%" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=venuri-p&custom_title=Most%20Used%20Languages&layout=compact&hide_border=true&bg_color=00000000&title_color=8b5cf6&icon_color=8b5cf6&text_color=c9d1d9" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=venuri-p&custom_title=Venuri%20Perera's%20GitHub%20Stats&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=8b5cf6&icon_color=8b5cf6&text_color=c9d1d9" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=venuri-p&custom_title=Most%20Used%20Languages&layout=compact&hide_border=true&bg_color=00000000&title_color=8b5cf6&icon_color=8b5cf6&text_color=c9d1d9" width="48%" />
   <br><br>
   <img src="https://raw.githubusercontent.com/venuri-p/venuri-p/output/streak-stats.svg" alt="GitHub Streak" />
 </div>
@@ -66,7 +66,7 @@
 
 <h3 align="center">📈 Contribution Graph</h3>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=venuri-p&bg_color=transparent&color=8b5cf6&line=8b5cf6&point=ffffff&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph-bice.vercel.app/graph?username=venuri-p&bg_color=transparent&color=8b5cf6&line=8b5cf6&point=ffffff&hide_border=true" width="100%" />
 </div>
 
 <br>
