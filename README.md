@@ -56,7 +56,7 @@
 
 <h2 align="center">📊 GitHub Analytics</h2>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/venuri-p/venuri-p/output/github-metrics-activity.svg?v=3" alt="GitHub Activity" width="48%" />
+  <img src="https://github.com/venuri-p/venuri-p/blob/output/github-metrics-activity.svg?raw=true" alt="GitHub Activity" width="48%" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=venuri-p&layout=compact&theme=react&hide_border=true&count_private=true" alt="Most Used Languages" width="48%" />
   <br><br>
   <img src="https://raw.githubusercontent.com/venuri-p/venuri-p/output/streak-stats.svg" alt="GitHub Streak" />
