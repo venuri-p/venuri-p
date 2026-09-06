@@ -56,16 +56,16 @@
 
 <h2 align="center">📊 GitHub Analytics</h2>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/venuri-p/venuri-p/output/github-metrics.svg" alt="GitHub Metrics" width="100%" />
+  <img src="https://raw.githubusercontent.com/venuri-p/venuri-p/output/github-metrics.svg?v=1" alt="GitHub Metrics" width="100%" />
   <br><br>
-  <img src="https://raw.githubusercontent.com/venuri-p/venuri-p/output/streak-stats.svg" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/venuri-p/venuri-p/output/streak-stats.svg?v=1" alt="GitHub Streak" />
 </div>
 
 <br>
 
 <h3 align="center">📈 Contribution Graph</h3>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/venuri-p/venuri-p/output/activity-graph.svg" alt="Activity Graph" width="100%" />
+  <img src="https://raw.githubusercontent.com/venuri-p/venuri-p/output/activity-graph.svg?v=1" alt="Activity Graph" width="100%" />
 </div>
 
 <br>
