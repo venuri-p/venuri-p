@@ -1,12 +1,10 @@
-name: Generate Snake Animation
+name: Generate Metrics
 
 on:
   schedule:
     # run every 12 hours
     - cron: "0 */12 * * *"
-  
   workflow_dispatch:
-  
   push:
     branches:
     - main
@@ -18,6 +16,9 @@ jobs:
     timeout-minutes: 10
     
     steps:
+      - name: Create dist directory
+        run: mkdir -p dist
+        
       - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
@@ -31,6 +32,26 @@ jobs:
         with:
           options: user=${{ github.repository_owner }}&theme=transparent&hide_border=true&ring=8b5cf6&fire=8b5cf6&currStreakLabel=8b5cf6
           path: dist/streak-stats.svg
+          
+      - name: Generate github-readme-activity-graph
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: ${{ github.repository_owner }}
+          options: theme=transparent&hide_border=true&color=8b5cf6&line=8b5cf6&point=ffffff
+          output_path: dist/activity-graph.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: Generate github-metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: dist/github-metrics.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: header, activity, community, repositories, metadata
+          plugin_languages: yes
+          plugin_languages_details: lines, bytes-size
+          plugin_languages_limit: 8
+          output_action: none
+          config_timezone: Asia/Colombo
             
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
