@@ -48,13 +48,3 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
-      - name: Generate github-metrics (Activity)
-        uses: lowlighter/metrics@latest
-        with:
-          filename: github-metrics-activity.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          base: activity
-          committer_branch: output
-          config_timezone: Asia/Colombo
-
