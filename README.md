@@ -56,7 +56,7 @@
 
 <h2 align="center">📊 GitHub Analytics</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=venuri-p&show_icons=true&theme=transparent&hide_border=true&title_color=8b5cf6&icon_color=8b5cf6&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" align="top" />
+  <img src="https://github-stats-extended.vercel.app/api?username=venuri-p&show_icons=true&theme=transparent&hide_border=true&title_color=8b5cf6&icon_color=8b5cf6&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" align="top" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=venuri-p&layout=compact&theme=react&hide_border=true&count_private=true" alt="Most Used Languages" width="48%" align="top" />
   <br><br>
   <img src="https://raw.githubusercontent.com/venuri-p/venuri-p/output/streak-stats.svg" alt="GitHub Streak" />
